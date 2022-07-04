@@ -183,3 +183,35 @@ fonter a:hover {
     text-decoration: underline;
     color: black;
 }
+
+div#botao {
+    padding: 8px;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    margin: auto;
+}
+main > p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div#res {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 15px;
+}
+input {
+    padding: 10px;
+    margin: auto;
+}
+main > h2 {
+    text-align: center;
+    padding: 5px;
+}
+h2.arrumar {
+    background-color: #3ddc84;
+}
